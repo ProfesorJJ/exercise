@@ -1,2 +1,2 @@
 node_modules/
-gitignore z*.env
+z*, .env, /artifacts/ .gitignore file
