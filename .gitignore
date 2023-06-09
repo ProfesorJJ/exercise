@@ -1,3 +1,4 @@
 node_modules/
-
-$ z*,.env,/artifacts/ .gitignore
+z*
+*.env
+artifacts/
