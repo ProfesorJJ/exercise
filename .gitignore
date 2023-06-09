@@ -1,2 +1,3 @@
 node_modules/
+touch .gitignore
 z*,.env,/artifacts/ .gitignore
